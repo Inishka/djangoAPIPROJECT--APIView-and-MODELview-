@@ -1,4 +1,4 @@
-# djangoAPIPROJECT--APIView-and-MODELview-
+# DjangoAPIPROJECT - APIView and MODELView
 Simple API Application created  in virtual environment to display how REST-API is execute in Django.
 
 API-View
